@@ -1,0 +1,8 @@
+# Java
+
+|          Subdomain          |                                                         Challenge                                                        | Points |                                                                                         Solution                                                                                        |
+|:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Introduction        | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                                                |    3   | [Solution.java]()                                                  |
+|         Introduction        | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)                                 |    5   | [Solution.java]()                                       |
+|         Introduction        | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)                                                       |   10   | [Solution.java]()                                                        |
+|         Introduction        | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout)                                      |   10   | [Solution.java]()                                      |
