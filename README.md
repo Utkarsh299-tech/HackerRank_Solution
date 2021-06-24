@@ -8,7 +8,9 @@
 * [Java](#java)
 
 
-# Java
+<details open>
+    <summary>Java</summary>
+    <br>
 
 |          Subdomain          |                                                         Challenge                                                        | Points |                                                                                         Solution                                                                                        |
 |:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -28,3 +30,4 @@
 |         Strings             | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)                             |   5   | [solution.java](https://github.com/Utkarsh299-tech/HackerRank_Solution/blob/main/Java/Strings/Java%20Strings%20Introduction/solution.java)                                                |
 |         Strings             | [Java Substring](https://www.hackerrank.com/challenges/java-substring)                                                   |   5   | [solution.java](https://github.com/Utkarsh299-tech/HackerRank_Solution/blob/main/Java/Strings/Java%20Substring/solution.java)    
 |         Strings             | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare)                                  |   10   | [solution.java](https://github.com/Utkarsh299-tech/HackerRank_Solution/blob/main/Java/Strings/Java%20Substring%20Comparisons/solution.java)  
+</details>
