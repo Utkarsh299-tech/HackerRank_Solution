@@ -1,3 +1,4 @@
+// https://github.com/Utkarsh299-tech
 import java.math.BigDecimal;
 import java.util.*;
 class Solution{
@@ -31,16 +32,16 @@ class Solution{
 }
 
 /*
-EXPLANATION: [Reference](https://www.hackerrank.com/challenges/java-bigdecimal/forum/comments/253654)
+EXPLANATION:
 We want to sort in descending order while preserving the contents of each String.
 A comparator can achieve this for us.
 We convert to BigDecimal inside our comparator so that the change is not permanent and our String's form for each number is preserved.
 
-Here, the [sort](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html#sort-T%3aA-int-int-java.util.Comparator-) method takes 4 parameters. 
+Here, the sort method takes 4 parameters. 
 The first parameter is the array to sort. 
 The next 2 parameters are the range to sort from [0,n] exclusive (includes 0 but not n).
 The last argument is the customComparator that I wrote to teach it how to sort.
-The customComparator I wrote is a [Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html), and it must override the compare function. 
-Reading the documentation for [compare](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html#compare-T-T-) will answer most of your questions If the compare function returns a negative value, then s1 comes before s2. 
+The customComparator I wrote is a Comparator, and it must override the compare function. 
+Reading the documentation for compare will answer most of your questions If the compare function returns a negative value, then s1 comes before s2. 
 If it returns a positive value, then s2 comes before s1. Based on that information, Arrays.sort can sort arrays.
 */
