@@ -41,3 +41,10 @@ class Solution {
         }
     }
 }
+
+/* EXPLANATION: Reference: https://www.hackerrank.com/challenges/java-comparator/forum/comments/260536
+Returning p2.score - p1.score sorts the Players in descending order according to their scores. 
+The exact value that the compare function returns is not important. 
+It just has to return 0 if scores are equal, a negative number if p1 should be placed before p2 when sorting, 
+and a positive number if p2 should be placed before p1 when sorting.
+*/
